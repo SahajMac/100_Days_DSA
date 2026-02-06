@@ -3,3 +3,4 @@ Activity for day 2
 Activity for day 3
 Activity for day 4
 Activity for day 5
+Activity for day 6
