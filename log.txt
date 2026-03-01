@@ -28,3 +28,4 @@ Activity for day 27
 Activity for day 28
 Activity for day 29
 Activity for day 30
+Activity for day 1
