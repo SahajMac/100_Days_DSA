@@ -94,3 +94,4 @@ Activity for day 3
 Activity for day 4
 Activity for day 5
 Activity for day 6
+Activity for day 7
